@@ -1,0 +1,7 @@
+public class multipleclass {
+	public void simpleMessage() {
+		System.out.println("this is another class");
+	}
+}
+//simpleMessage is a METHOD. void means the method does something, but the data isn't returned. public means anyone can use it.
+//when you run this, the method executes, but no data is returned. java looks for "main" and runs from that. 
