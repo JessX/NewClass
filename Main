@@ -1,0 +1,10 @@
+public class main {
+	public static void main(String[] args) {
+	multipleclass classObject = new multipleclass();
+	
+	classObject.simpleMessage();
+	}
+}
+//when using a method from another class, make the method an object. Class name, assign object a name, set the object to new class.
+//clarify which method you want to use in the class. Can be multiple classes with multiple methods.
+//() is used whenever you call a METHOD, even if the arguments are empty, hence () has nothing inside. 
